@@ -1,2 +1,2 @@
 # rationcard-assettracking
-ration card asset traacking
+ration card asset tracking
